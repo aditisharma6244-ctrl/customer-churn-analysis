@@ -1,0 +1,301 @@
+Customer_ID,Subscription_Type,Tenure_Months,Monthly_Charge,Monthly_Logins,Support_Tickets,Watch_Hours,Payment_Method,Auto_Renewal,Satisfaction_Score,Churn,Engagement_Level,Risk_Score,Risk_Level
+1001,Basic,45,381,2,5,40.8,Debit Card,Yes,1,Yes,Low,3,Medium
+1002,Premium,32,1645,8,4,4.8,UPI,No,10,No,Medium,1,Low
+1003,Standard,30,888,27,0,45.1,UPI,No,6,No,High,1,Low
+1004,Standard,47,830,13,1,33.2,Debit Card,Yes,9,No,Medium,0,Low
+1005,Basic,35,585,13,3,44.0,Net Banking,Yes,1,No,Medium,1,Low
+1006,Basic,40,541,1,2,2.0,Debit Card,Yes,4,No,Low,2,Medium
+1007,Basic,16,550,6,3,10.1,UPI,No,4,Yes,Low,3,Medium
+1008,Premium,13,1454,24,1,20.7,Credit Card,Yes,9,No,High,0,Low
+1009,Standard,42,853,19,2,20.2,Debit Card,Yes,5,No,High,0,Low
+1010,Standard,30,795,16,1,12.9,Net Banking,Yes,5,No,High,0,Low
+1011,Basic,19,364,8,1,20.3,UPI,No,6,No,Medium,1,Low
+1012,Premium,17,1701,28,1,8.2,UPI,Yes,1,No,High,1,Low
+1013,Premium,19,1633,1,3,21.8,UPI,Yes,1,No,Low,2,Medium
+1014,Basic,28,538,27,5,40.5,UPI,Yes,9,No,High,1,Low
+1015,Basic,26,476,27,2,25.0,Net Banking,No,3,No,High,2,Medium
+1016,Basic,37,566,16,3,2.9,Credit Card,Yes,4,No,High,1,Low
+1017,Basic,26,581,9,3,22.2,UPI,No,1,No,Medium,2,Medium
+1018,Standard,23,717,13,3,3.3,Debit Card,Yes,9,No,Medium,0,Low
+1019,Standard,9,893,11,3,48.4,Credit Card,Yes,8,No,Medium,0,Low
+1020,Basic,12,582,13,2,8.1,UPI,Yes,2,Yes,Medium,1,Low
+1021,Standard,1,758,25,0,36.0,Credit Card,No,8,Yes,High,2,Medium
+1022,Basic,1,397,21,1,48.7,Debit Card,Yes,7,No,High,1,Low
+1023,Basic,47,404,10,3,41.6,UPI,No,6,Yes,Medium,1,Low
+1024,Basic,34,398,4,0,35.6,Debit Card,No,1,No,Low,3,Medium
+1025,Standard,32,815,27,2,42.3,Net Banking,Yes,7,No,High,0,Low
+1026,Standard,48,783,6,1,49.1,UPI,No,10,No,Low,2,Medium
+1027,Basic,25,432,28,3,31.8,UPI,No,7,No,High,1,Low
+1028,Standard,40,756,7,2,28.8,UPI,Yes,9,Yes,Low,1,Low
+1029,Standard,45,735,5,2,32.2,UPI,Yes,1,Yes,Low,2,Medium
+1030,Basic,1,352,11,1,27.6,Net Banking,No,2,Yes,Medium,3,Medium
+1031,Standard,16,756,13,3,32.5,UPI,Yes,9,No,Medium,0,Low
+1032,Basic,39,501,26,2,23.6,Credit Card,No,9,No,High,1,Low
+1033,Basic,5,382,25,3,12.5,UPI,No,6,No,High,2,Medium
+1034,Premium,22,1309,19,3,7.8,Net Banking,Yes,6,No,High,0,Low
+1035,Premium,29,1097,23,1,5.3,UPI,No,4,Yes,High,2,Medium
+1036,Premium,3,1054,10,1,14.6,Credit Card,Yes,4,Yes,Medium,2,Medium
+1037,Basic,12,300,10,2,4.2,Net Banking,Yes,5,No,Medium,0,Low
+1038,Basic,26,350,11,0,29.2,Net Banking,Yes,3,Yes,Medium,1,Low
+1039,Standard,16,842,21,0,15.6,Credit Card,Yes,1,Yes,High,1,Low
+1040,Standard,37,891,30,3,41.6,Credit Card,No,1,No,High,2,Medium
+1041,Basic,22,559,7,1,5.6,Credit Card,No,7,Yes,Low,2,Medium
+1042,Standard,29,898,18,3,12.9,Credit Card,No,1,No,High,2,Medium
+1043,Basic,14,333,4,2,37.1,Credit Card,Yes,1,Yes,Low,2,Medium
+1044,Premium,28,1761,2,0,30.7,Net Banking,Yes,3,No,Low,2,Medium
+1045,Basic,5,371,14,0,5.1,Net Banking,No,10,Yes,Medium,2,Medium
+1046,Standard,47,610,13,1,44.1,UPI,Yes,4,No,Medium,1,Low
+1047,Basic,30,453,29,1,44.1,UPI,No,4,No,High,2,Medium
+1048,Standard,46,929,12,2,17.9,Debit Card,No,2,No,Medium,2,Medium
+1049,Standard,5,959,7,2,18.3,UPI,No,1,Yes,Low,4,High
+1050,Basic,12,417,2,3,49.5,UPI,No,3,No,Low,3,Medium
+1051,Premium,16,1490,13,3,32.1,Credit Card,Yes,4,Yes,Medium,1,Low
+1052,Standard,26,799,14,0,27.5,Credit Card,No,3,No,Medium,2,Medium
+1053,Premium,26,1364,27,6,42.2,UPI,Yes,8,No,High,1,Low
+1054,Premium,48,1481,17,1,15.7,Debit Card,No,10,No,High,1,Low
+1055,Standard,21,945,9,4,22.6,Credit Card,Yes,1,No,Medium,1,Low
+1056,Premium,39,1153,17,0,14.9,UPI,No,2,No,High,2,Medium
+1057,Basic,36,411,8,1,39.9,UPI,No,7,Yes,Medium,1,Low
+1058,Basic,33,554,2,6,29.5,Net Banking,Yes,4,Yes,Low,3,Medium
+1059,Basic,30,506,28,2,33.6,Debit Card,Yes,8,No,High,0,Low
+1060,Basic,37,528,24,2,14.1,Net Banking,No,3,No,High,2,Medium
+1061,Basic,23,365,13,2,12.6,Debit Card,Yes,6,No,Medium,0,Low
+1062,Basic,10,374,3,3,25.4,Credit Card,Yes,9,No,Low,1,Low
+1063,Premium,5,1640,16,0,37.4,Debit Card,Yes,1,Yes,High,2,Medium
+1064,Basic,36,491,6,1,27.2,UPI,Yes,1,No,Low,2,Medium
+1065,Basic,34,551,19,3,3.6,UPI,No,8,No,High,1,Low
+1066,Standard,31,770,30,4,43.7,Debit Card,Yes,3,No,High,1,Low
+1067,Basic,10,593,7,1,5.1,Debit Card,Yes,5,No,Low,1,Low
+1068,Premium,19,1024,10,1,47.9,Debit Card,Yes,1,No,Medium,1,Low
+1069,Basic,32,585,9,3,3.2,Net Banking,Yes,5,Yes,Medium,0,Low
+1070,Premium,1,1130,2,4,35.3,Debit Card,Yes,6,Yes,Low,2,Medium
+1071,Standard,5,892,28,3,5.9,Credit Card,Yes,8,No,High,1,Low
+1072,Basic,45,329,28,1,45.7,Net Banking,Yes,3,No,High,1,Low
+1073,Basic,4,546,15,1,24.3,Net Banking,Yes,3,No,Medium,2,Medium
+1074,Premium,16,1171,30,4,8.6,Debit Card,No,10,No,High,1,Low
+1075,Standard,24,691,5,0,18.4,Credit Card,Yes,9,No,Low,1,Low
+1076,Standard,16,886,29,4,9.9,Net Banking,Yes,4,Yes,High,1,Low
+1077,Standard,2,977,22,0,10.2,UPI,Yes,4,No,High,2,Medium
+1078,Basic,28,584,4,2,47.5,Net Banking,Yes,7,No,Low,1,Low
+1079,Basic,32,437,20,2,23.4,Debit Card,No,2,No,High,2,Medium
+1080,Basic,27,483,4,2,39.9,Credit Card,Yes,8,Yes,Low,1,Low
+1081,Premium,20,1043,18,3,32.7,Debit Card,No,6,No,High,1,Low
+1082,Standard,24,896,4,0,34.5,UPI,No,3,Yes,Low,3,Medium
+1083,Basic,12,333,27,4,8.3,UPI,Yes,9,No,High,0,Low
+1084,Basic,35,561,17,1,13.2,UPI,No,5,No,High,1,Low
+1085,Basic,33,352,12,3,39.8,Debit Card,Yes,8,No,Medium,0,Low
+1086,Basic,33,504,22,3,48.6,Net Banking,Yes,7,No,High,0,Low
+1087,Standard,43,700,17,2,14.6,Debit Card,Yes,8,No,High,0,Low
+1088,Standard,37,945,10,1,15.0,Credit Card,Yes,7,No,Medium,0,Low
+1089,Premium,12,1215,22,2,24.7,Net Banking,No,3,No,High,2,Medium
+1090,Standard,3,781,1,1,49.2,UPI,No,2,Yes,Low,4,High
+1091,Basic,1,410,22,1,14.9,Debit Card,No,7,Yes,High,2,Medium
+1092,Standard,33,600,26,1,21.5,UPI,Yes,3,No,High,1,Low
+1093,Standard,40,918,24,2,44.8,UPI,Yes,3,No,High,1,Low
+1094,Standard,10,654,27,1,2.1,Credit Card,Yes,2,No,High,1,Low
+1095,Standard,43,970,18,3,3.9,Net Banking,No,4,No,High,2,Medium
+1096,Standard,44,998,18,1,31.0,Credit Card,Yes,8,No,High,0,Low
+1097,Standard,29,748,14,3,45.6,Credit Card,No,1,No,Medium,2,Medium
+1098,Standard,13,908,15,3,13.5,Credit Card,Yes,1,No,Medium,1,Low
+1099,Basic,12,494,29,2,24.5,UPI,Yes,5,No,High,0,Low
+1100,Basic,31,494,12,2,23.6,Credit Card,No,5,No,Medium,1,Low
+1101,Basic,46,454,4,2,24.7,Credit Card,Yes,1,Yes,Low,2,Medium
+1102,Standard,2,716,27,2,31.9,Net Banking,Yes,6,No,High,1,Low
+1103,Basic,35,459,3,2,24.5,Net Banking,No,1,Yes,Low,3,Medium
+1104,Standard,23,890,20,1,23.5,Credit Card,Yes,5,No,High,0,Low
+1105,Premium,17,1488,29,3,24.8,Net Banking,No,9,No,High,1,Low
+1106,Basic,26,350,12,2,30.4,Net Banking,Yes,5,No,Medium,0,Low
+1107,Standard,8,624,7,3,27.8,Credit Card,No,6,Yes,Low,2,Medium
+1108,Standard,29,689,29,3,43.0,UPI,No,8,Yes,High,1,Low
+1109,Basic,26,391,11,3,4.4,Credit Card,Yes,1,No,Medium,1,Low
+1110,Basic,10,469,1,0,42.0,Net Banking,Yes,2,No,Low,2,Medium
+1111,Basic,26,321,6,1,42.5,UPI,No,9,Yes,Low,2,Medium
+1112,Basic,34,300,15,3,15.7,Debit Card,Yes,3,No,Medium,1,Low
+1113,Premium,41,1793,15,0,24.2,UPI,No,6,No,Medium,1,Low
+1114,Premium,7,1085,19,3,23.0,Net Banking,Yes,5,No,High,0,Low
+1115,Standard,4,616,11,1,12.5,UPI,Yes,2,Yes,Medium,2,Medium
+1116,Premium,45,1390,26,0,21.0,Credit Card,No,7,No,High,1,Low
+1117,Premium,11,1781,23,0,4.1,Debit Card,No,4,No,High,2,Medium
+1118,Basic,29,377,26,1,15.3,Debit Card,Yes,1,No,High,1,Low
+1119,Premium,36,1628,2,1,41.2,Debit Card,No,4,No,Low,3,Medium
+1120,Standard,25,781,14,1,15.7,Net Banking,Yes,6,Yes,Medium,0,Low
+1121,Premium,21,1136,2,4,41.3,Net Banking,Yes,7,No,Low,1,Low
+1122,Premium,36,1687,29,3,27.5,Debit Card,No,7,No,High,1,Low
+1123,Basic,10,548,4,2,44.2,UPI,No,7,Yes,Low,2,Medium
+1124,Basic,37,346,17,4,29.6,Debit Card,No,3,No,High,2,Medium
+1125,Basic,9,420,3,2,3.4,UPI,Yes,6,No,Low,1,Low
+1126,Standard,24,760,13,0,34.4,UPI,Yes,8,Yes,Medium,0,Low
+1127,Premium,35,1222,9,1,4.2,Net Banking,Yes,4,No,Medium,1,Low
+1128,Premium,35,1371,7,5,23.6,UPI,Yes,8,Yes,Low,2,Medium
+1129,Basic,48,406,15,1,46.6,Debit Card,Yes,2,No,Medium,1,Low
+1130,Standard,36,749,23,5,9.9,Net Banking,No,10,No,High,2,Medium
+1131,Standard,18,753,29,0,20.7,Credit Card,Yes,9,No,High,0,Low
+1132,Basic,39,325,29,2,37.0,Credit Card,No,9,No,High,1,Low
+1133,Basic,32,591,11,0,44.3,Net Banking,No,8,Yes,Medium,1,Low
+1134,Basic,24,556,20,1,34.2,Debit Card,Yes,10,No,High,0,Low
+1135,Premium,23,1158,2,4,14.4,Credit Card,No,10,No,Low,2,Medium
+1136,Basic,32,412,15,0,34.4,Credit Card,No,1,No,Medium,2,Medium
+1137,Standard,37,960,14,0,16.2,UPI,Yes,2,No,Medium,1,Low
+1138,Standard,12,776,20,2,36.5,UPI,Yes,6,No,High,0,Low
+1139,Basic,13,506,22,1,47.8,Debit Card,Yes,10,No,High,0,Low
+1140,Premium,23,1130,11,1,36.6,Net Banking,Yes,5,No,Medium,0,Low
+1141,Premium,25,1170,27,3,43.4,Debit Card,No,9,No,High,1,Low
+1142,Basic,35,513,3,1,2.1,Net Banking,Yes,5,Yes,Low,1,Low
+1143,Standard,41,788,17,2,36.4,Credit Card,No,2,Yes,High,2,Medium
+1144,Basic,30,327,30,3,41.8,UPI,No,10,No,High,1,Low
+1145,Basic,17,377,12,1,3.9,Debit Card,Yes,4,No,Medium,1,Low
+1146,Basic,20,515,24,1,43.8,Debit Card,No,9,No,High,1,Low
+1147,Standard,48,856,28,4,14.3,Net Banking,Yes,1,No,High,1,Low
+1148,Standard,25,823,29,2,33.9,Net Banking,Yes,1,No,High,1,Low
+1149,Basic,22,486,21,1,40.4,Debit Card,No,7,No,High,1,Low
+1150,Basic,13,306,15,2,33.8,Net Banking,Yes,3,Yes,Medium,1,Low
+1151,Premium,19,1160,16,3,6.4,Debit Card,Yes,10,No,High,0,Low
+1152,Basic,36,410,5,1,30.6,Debit Card,Yes,2,Yes,Low,2,Medium
+1153,Basic,12,537,27,3,28.4,Debit Card,Yes,9,No,High,0,Low
+1154,Standard,41,631,20,0,45.2,Credit Card,No,3,Yes,High,2,Medium
+1155,Premium,19,1107,6,0,21.4,Net Banking,Yes,2,Yes,Low,2,Medium
+1156,Basic,12,593,19,1,17.4,UPI,Yes,8,No,High,0,Low
+1157,Standard,9,904,25,2,38.0,UPI,Yes,10,No,High,0,Low
+1158,Standard,7,885,5,1,21.8,Net Banking,No,6,Yes,Low,2,Medium
+1159,Basic,28,491,3,3,33.0,Debit Card,Yes,6,No,Low,1,Low
+1160,Standard,14,618,27,4,33.0,UPI,Yes,10,No,High,0,Low
+1161,Basic,31,327,1,0,44.6,UPI,Yes,7,No,Low,1,Low
+1162,Standard,19,856,26,3,30.7,Net Banking,Yes,7,No,High,0,Low
+1163,Standard,47,677,28,2,26.1,UPI,No,6,No,High,1,Low
+1164,Standard,16,970,6,3,8.7,Debit Card,No,4,Yes,Low,3,Medium
+1165,Basic,5,530,15,1,7.6,Net Banking,Yes,9,No,Medium,1,Low
+1166,Premium,35,1273,2,3,9.4,Debit Card,No,6,Yes,Low,2,Medium
+1167,Basic,12,425,29,2,10.2,UPI,Yes,4,Yes,High,1,Low
+1168,Basic,25,599,3,0,32.6,UPI,No,3,No,Low,3,Medium
+1169,Basic,21,324,17,3,37.6,Debit Card,No,4,Yes,High,2,Medium
+1170,Standard,36,765,25,0,27.4,Credit Card,Yes,3,No,High,1,Low
+1171,Standard,23,918,24,2,41.8,UPI,No,2,Yes,High,2,Medium
+1172,Basic,16,511,12,5,49.6,Credit Card,No,5,Yes,Medium,2,Medium
+1173,Standard,39,984,18,2,41.4,UPI,Yes,2,No,High,1,Low
+1174,Basic,45,367,15,1,35.4,Credit Card,Yes,6,No,Medium,0,Low
+1175,Standard,42,654,12,3,27.6,Credit Card,Yes,3,No,Medium,1,Low
+1176,Basic,39,532,16,2,23.5,Credit Card,No,6,No,High,1,Low
+1177,Standard,14,730,27,1,6.1,Debit Card,No,10,No,High,1,Low
+1178,Basic,31,445,8,0,21.2,Credit Card,No,9,No,Medium,1,Low
+1179,Premium,5,1747,28,3,45.7,Credit Card,No,1,Yes,High,3,Medium
+1180,Basic,35,527,14,0,40.8,Credit Card,Yes,6,No,Medium,0,Low
+1181,Basic,23,410,25,1,12.4,UPI,No,9,No,High,1,Low
+1182,Basic,29,333,17,4,24.4,Credit Card,No,4,No,High,2,Medium
+1183,Premium,43,1358,29,0,41.2,UPI,Yes,2,No,High,1,Low
+1184,Premium,11,1339,21,0,5.2,Credit Card,Yes,4,Yes,High,1,Low
+1185,Basic,18,535,8,1,20.6,Credit Card,No,1,No,Medium,2,Medium
+1186,Standard,47,777,15,2,42.9,Debit Card,Yes,3,No,Medium,1,Low
+1187,Premium,12,1688,27,1,21.4,UPI,No,10,No,High,1,Low
+1188,Standard,9,948,14,3,5.7,Credit Card,Yes,9,No,Medium,0,Low
+1189,Standard,10,607,18,4,28.0,UPI,Yes,10,No,High,0,Low
+1190,Basic,44,479,20,2,43.4,UPI,No,5,Yes,High,1,Low
+1191,Basic,17,581,7,3,30.3,Net Banking,Yes,6,No,Low,1,Low
+1192,Premium,38,1669,3,0,12.9,Debit Card,Yes,3,Yes,Low,2,Medium
+1193,Premium,7,1323,29,2,20.4,Debit Card,Yes,5,No,High,0,Low
+1194,Standard,46,854,12,2,23.6,Debit Card,No,8,No,Medium,1,Low
+1195,Basic,13,449,21,1,29.8,Net Banking,Yes,6,No,High,0,Low
+1196,Basic,40,576,24,2,38.4,Net Banking,No,4,Yes,High,2,Medium
+1197,Standard,42,848,28,2,6.7,Debit Card,Yes,2,No,High,1,Low
+1198,Premium,9,1704,26,2,44.7,Net Banking,No,9,No,High,1,Low
+1199,Premium,27,1584,3,1,2.6,Net Banking,No,1,Yes,Low,3,Medium
+1200,Standard,2,666,20,3,19.8,Net Banking,Yes,1,No,High,2,Medium
+1201,Standard,5,650,14,4,3.3,Debit Card,Yes,4,Yes,Medium,2,Medium
+1202,Basic,29,451,15,2,20.9,Debit Card,Yes,7,No,Medium,0,Low
+1203,Basic,37,436,25,3,27.2,Debit Card,Yes,1,No,High,1,Low
+1204,Premium,38,1060,30,3,26.6,Net Banking,Yes,9,No,High,0,Low
+1205,Standard,19,890,14,3,10.0,Debit Card,Yes,4,No,Medium,1,Low
+1206,Basic,8,330,7,5,33.0,Net Banking,Yes,3,No,Low,3,Medium
+1207,Basic,48,339,17,1,4.1,Credit Card,Yes,1,Yes,High,1,Low
+1208,Standard,45,677,30,3,38.6,Net Banking,Yes,10,No,High,0,Low
+1209,Basic,1,335,12,1,47.4,UPI,Yes,4,No,Medium,2,Medium
+1210,Basic,22,522,20,0,18.3,Debit Card,No,9,No,High,1,Low
+1211,Standard,17,901,4,1,26.8,Debit Card,Yes,10,No,Low,1,Low
+1212,Standard,7,999,9,1,20.2,UPI,Yes,6,No,Medium,0,Low
+1213,Standard,25,764,6,3,2.3,Net Banking,Yes,6,No,Low,1,Low
+1214,Basic,45,303,16,1,20.5,Credit Card,No,1,No,High,2,Medium
+1215,Standard,4,997,25,2,40.0,UPI,No,10,No,High,2,Medium
+1216,Basic,36,417,28,3,30.6,UPI,No,2,No,High,2,Medium
+1217,Basic,6,393,22,2,6.9,Net Banking,No,6,Yes,High,2,Medium
+1218,Standard,31,606,22,3,42.7,Debit Card,Yes,2,No,High,1,Low
+1219,Standard,19,929,21,3,27.5,Net Banking,No,3,Yes,High,2,Medium
+1220,Premium,44,1659,21,2,42.4,UPI,No,4,No,High,2,Medium
+1221,Standard,39,760,2,0,29.9,UPI,Yes,5,No,Low,1,Low
+1222,Standard,27,750,24,3,28.9,Debit Card,No,9,No,High,1,Low
+1223,Basic,10,599,8,1,7.1,Debit Card,Yes,4,Yes,Medium,1,Low
+1224,Basic,26,432,11,1,10.0,Debit Card,No,9,Yes,Medium,1,Low
+1225,Basic,19,417,13,5,48.7,Net Banking,Yes,10,No,Medium,1,Low
+1226,Basic,39,574,17,2,13.0,Debit Card,Yes,3,Yes,High,1,Low
+1227,Premium,3,1106,8,5,48.9,UPI,No,8,No,Medium,3,Medium
+1228,Basic,45,524,21,0,27.5,UPI,Yes,1,Yes,High,1,Low
+1229,Premium,13,1217,18,2,8.5,Credit Card,Yes,9,No,High,0,Low
+1230,Standard,28,681,30,2,6.8,Net Banking,Yes,9,No,High,0,Low
+1231,Standard,20,601,18,3,12.0,Credit Card,No,10,No,High,1,Low
+1232,Standard,28,984,14,3,46.4,UPI,Yes,2,No,Medium,1,Low
+1233,Standard,8,902,15,0,21.9,Credit Card,Yes,4,No,Medium,1,Low
+1234,Standard,41,796,6,1,21.0,UPI,No,8,Yes,Low,2,Medium
+1235,Basic,39,441,11,3,17.0,Credit Card,No,7,No,Medium,1,Low
+1236,Standard,1,833,13,1,9.1,Debit Card,Yes,1,Yes,Medium,2,Medium
+1237,Basic,3,592,25,0,25.4,Credit Card,No,5,Yes,High,2,Medium
+1238,Basic,13,438,1,1,8.2,Debit Card,No,7,Yes,Low,2,Medium
+1239,Standard,28,718,28,3,42.1,Debit Card,No,4,Yes,High,2,Medium
+1240,Basic,25,460,6,2,19.8,Net Banking,Yes,1,No,Low,2,Medium
+1241,Premium,33,1098,9,1,20.0,Debit Card,Yes,9,No,Medium,0,Low
+1242,Premium,38,1019,8,2,24.8,Debit Card,Yes,5,No,Medium,0,Low
+1243,Premium,6,1752,11,2,23.3,Credit Card,Yes,2,No,Medium,2,Medium
+1244,Basic,44,437,22,2,49.8,UPI,Yes,8,No,High,0,Low
+1245,Basic,45,471,19,0,28.2,Net Banking,Yes,2,No,High,1,Low
+1246,Premium,32,1418,24,5,6.2,Debit Card,Yes,3,Yes,High,2,Medium
+1247,Standard,45,825,9,2,31.1,Net Banking,Yes,10,No,Medium,0,Low
+1248,Premium,47,1061,17,1,9.3,Credit Card,Yes,1,No,High,1,Low
+1249,Premium,21,1144,12,3,3.5,Debit Card,No,2,Yes,Medium,2,Medium
+1250,Premium,16,1215,25,0,48.6,Credit Card,Yes,7,No,High,0,Low
+1251,Basic,21,572,14,2,39.1,Net Banking,Yes,10,No,Medium,0,Low
+1252,Basic,11,564,15,3,49.0,Credit Card,No,2,Yes,Medium,2,Medium
+1253,Premium,37,1738,16,3,24.9,Net Banking,Yes,6,No,High,0,Low
+1254,Basic,36,393,22,2,27.5,Credit Card,No,3,Yes,High,2,Medium
+1255,Basic,35,394,22,1,10.1,Net Banking,No,4,No,High,2,Medium
+1256,Standard,19,719,28,2,13.9,UPI,Yes,8,No,High,0,Low
+1257,Premium,20,1328,20,3,42.3,Credit Card,No,3,Yes,High,2,Medium
+1258,Standard,18,814,1,1,19.1,Credit Card,Yes,10,No,Low,1,Low
+1259,Standard,47,727,10,4,41.7,UPI,Yes,6,No,Medium,0,Low
+1260,Basic,41,334,8,4,36.0,UPI,Yes,1,Yes,Medium,1,Low
+1261,Standard,14,808,18,0,10.5,Credit Card,Yes,7,No,High,0,Low
+1262,Premium,15,1616,28,1,26.4,UPI,No,8,No,High,1,Low
+1263,Basic,31,359,1,3,34.5,Debit Card,Yes,8,Yes,Low,1,Low
+1264,Standard,1,808,2,2,13.3,Net Banking,Yes,3,No,Low,3,Medium
+1265,Premium,3,1540,1,1,41.9,Net Banking,Yes,10,No,Low,2,Medium
+1266,Standard,16,608,1,2,28.2,Net Banking,Yes,1,Yes,Low,2,Medium
+1267,Standard,23,639,9,2,9.9,Debit Card,Yes,9,No,Medium,0,Low
+1268,Standard,11,836,13,1,30.0,UPI,Yes,6,No,Medium,0,Low
+1269,Basic,12,512,30,1,50.0,UPI,No,9,No,High,1,Low
+1270,Basic,10,464,1,2,9.2,Credit Card,Yes,7,Yes,Low,1,Low
+1271,Premium,32,1520,13,2,41.2,UPI,Yes,1,Yes,Medium,1,Low
+1272,Premium,16,1462,20,3,12.0,Credit Card,Yes,1,No,High,1,Low
+1273,Premium,8,1039,26,1,39.6,Debit Card,Yes,6,No,High,0,Low
+1274,Premium,38,1536,22,2,37.3,Net Banking,No,5,No,High,1,Low
+1275,Standard,12,603,7,2,16.4,Net Banking,Yes,9,Yes,Low,1,Low
+1276,Standard,24,753,2,3,17.6,Net Banking,Yes,2,Yes,Low,2,Medium
+1277,Standard,28,628,6,3,40.0,UPI,Yes,8,No,Low,1,Low
+1278,Standard,8,708,7,3,24.1,Credit Card,No,5,Yes,Low,2,Medium
+1279,Standard,28,697,26,0,37.1,Credit Card,Yes,2,Yes,High,1,Low
+1280,Standard,36,814,14,5,9.1,Debit Card,Yes,10,No,Medium,1,Low
+1281,Premium,26,1250,26,1,42.9,UPI,No,6,No,High,1,Low
+1282,Basic,8,313,18,0,36.1,Debit Card,Yes,10,No,High,0,Low
+1283,Basic,28,587,15,2,45.5,Credit Card,No,8,No,Medium,1,Low
+1284,Basic,28,478,2,2,8.4,Credit Card,No,4,No,Low,3,Medium
+1285,Standard,37,727,10,1,30.5,Net Banking,Yes,2,No,Medium,1,Low
+1286,Basic,41,322,23,5,30.8,UPI,Yes,5,Yes,High,1,Low
+1287,Standard,36,641,12,3,19.0,Credit Card,Yes,2,No,Medium,1,Low
+1288,Standard,27,955,17,0,24.0,Net Banking,Yes,2,No,High,1,Low
+1289,Basic,17,452,8,0,3.8,UPI,No,6,No,Medium,1,Low
+1290,Standard,9,633,11,4,37.8,Debit Card,Yes,10,No,Medium,0,Low
+1291,Basic,33,524,29,3,28.4,UPI,Yes,9,No,High,0,Low
+1292,Basic,20,403,3,3,4.8,UPI,No,4,Yes,Low,3,Medium
+1293,Premium,13,1223,27,1,34.7,Credit Card,Yes,6,No,High,0,Low
+1294,Basic,28,338,6,1,24.4,Credit Card,Yes,7,No,Low,1,Low
+1295,Basic,48,497,9,1,3.7,UPI,Yes,6,No,Medium,0,Low
+1296,Standard,29,686,6,2,48.5,Credit Card,Yes,8,No,Low,1,Low
+1297,Standard,13,716,9,0,47.6,Credit Card,No,4,Yes,Medium,2,Medium
+1298,Basic,46,478,7,2,26.6,Credit Card,Yes,1,No,Low,2,Medium
+1299,Standard,35,941,9,1,6.5,Net Banking,Yes,7,No,Medium,0,Low
+1300,Basic,6,314,18,4,38.2,Net Banking,Yes,3,Yes,High,2,Medium
